@@ -1,2 +1,2 @@
 # nlw-ecoleta
-Projeto da Netx Level Week da Rockeseat.
+Projeto da Next Level Week da Rockeseat.
