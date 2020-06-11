@@ -9,6 +9,10 @@
     align-items: center;
 }
 
+#modal.hide {
+    display: none;
+}
+
 #modal .content {
     color: white;
     width: 420px;
